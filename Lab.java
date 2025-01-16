@@ -12,7 +12,7 @@ public class Lab{
         }
         for (int i = 0; i < 6; i++)
         {
-            System.out.println(favorites.get(i));
+            System.out.println(i + " " + favorites.get(i));
         }
     }
 }
